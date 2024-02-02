@@ -1,7 +1,11 @@
-### Hi there 👋
+<h1>Anisah Chowdhury<br/><a href=www.linkedin.com/in/anisah-chowdhury>LinkedIn</a>
 
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>CSC 317 Class Project</b>
+  - [Social Media Website](https://github.com/AnisahC/social-media)
 <!--
-**AnisahC/AnisahC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
