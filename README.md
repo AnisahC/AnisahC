@@ -1,8 +1,12 @@
-<h1>Anisah Chowdhury<br/><a href=www.linkedin.com/in/anisah-chowdhury>LinkedIn</a>
+<h1>Hi, I'm Anisah!<br/><a href=www.linkedin.com/in/anisah-chowdhury>LinkedIn</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>CSC 317 Class Project</b>
+- <b>CSC 413 (Software Development) Class Project</b>
+  - [Lexical Analysis](https://github.com/sfsu-csc-413-fall-2023/lexical-analysis-AnisahC)
+  - [Parsing](https://github.com/sfsu-csc-413-fall-2023/parser-part-1-AnisahC)
+  - [Interpreter](https://github.com/sfsu-csc-413-fall-2023/interpreter-AnisahC)
+- <b>CSC 317 (Web Development) Class Project</b>
   - [Social Media Website](https://github.com/AnisahC/social-media)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
