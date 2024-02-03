@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anisah!<br/><a href=www.linkedin.com/in/anisah-chowdhury>LinkedIn</a>
+<h1>Hi, I'm Anisah!<br/><a href=https://www.linkedin.com/in/anisah-chowdhury>LinkedIn</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
