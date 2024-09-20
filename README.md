@@ -1,7 +1,7 @@
-<h1>Hi, I'm Anisah!<br/><a href=https://www.linkedin.com/in/anisah-chowdhury>LinkedIn</a></h1>
+<h1👋 Hi, I'm Anisah!<br/><a href=https://www.linkedin.com/in/anisah-chowdhury>LinkedIn</a></h1>
 <b>
 
-👋 Hi there! I’m a 4th-year Computer Science student passionate about technology and learning. My academic journey has included courses in UNIX Programming, Database Management, Operating Systems, and Software Engineering, equipping me with a solid foundation in the field.
+I’m a 4th-year Computer Science student passionate about technology and learning. My academic journey has included courses in UNIX Programming, Database Management, Operating Systems, and Software Engineering, equipping me with a solid foundation in the field.
 
 I thrive on exploring new technologies and enjoy the challenge of solving complex problems. I also love working on team projects, as I believe collaboration enhances creativity and leads to better solutions. Engaging with others to share ideas and learn together is something I truly enjoy.
 
