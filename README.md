@@ -4,6 +4,7 @@
 
 - <b>Embedded Systems</b>
   - [Traffic Control Simulator](https://github.com/AnisahC/Traffic_Light_Project)
+    Creates a traffic light where the green, yellow, and red LED's flash for a certain amout of time
 - <b>Web Development</b>
   - [Social Media Website](https://github.com/AnisahC/social-media)
 <!--
