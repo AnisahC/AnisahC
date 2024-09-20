@@ -1,12 +1,10 @@
 <h1>Hi, I'm Anisah!<br/><a href=https://www.linkedin.com/in/anisah-chowdhury>LinkedIn</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Some Projects I've Worked On:</h2>
 
-- <b>CSC 413 (Software Development) Class Project</b>
-  - [Lexical Analysis](https://github.com/sfsu-csc-413-fall-2023/lexical-analysis-AnisahC)
-  - [Parsing](https://github.com/sfsu-csc-413-fall-2023/parser-part-1-AnisahC)
-  - [Interpreter](https://github.com/sfsu-csc-413-fall-2023/interpreter-AnisahC)
-- <b>CSC 317 (Web Development) Class Project</b>
+- <b>Embedded Systems</b>
+  - [Traffic Control Simulator](https://github.com/AnisahC/Traffic_Light_Project)
+- <b>Web Development</b>
   - [Social Media Website](https://github.com/AnisahC/social-media)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
