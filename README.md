@@ -1,5 +1,5 @@
 <h1>Hi, I'm Anisah!<br/><a href=https://www.linkedin.com/in/anisah-chowdhury>LinkedIn</a>
-<b>:
+<b>
 
 👋 Hi there! I’m a 4th-year Computer Science student passionate about technology and learning. My academic journey has included courses in UNIX Programming, Database Management, Operating Systems, and Software Engineering, equipping me with a solid foundation in the field.
 
