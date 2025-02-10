@@ -12,6 +12,7 @@ Feel free to check out my projects and connect with me on [LinkedIn](https://www
 
 - <b>Embedded Systems</b>
   - [Traffic Control Simulator](https://github.com/AnisahC/Traffic_Light)<br>
+  - [Group Project: Robot Car](https://github.com/AnisahC/RobotCar)<br>
 - <b>Web Development</b>
   - [Social Media Website](https://github.com/AnisahC/social-media)
 <!--
