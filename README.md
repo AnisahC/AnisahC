@@ -16,7 +16,7 @@ Feel free to check out my projects and connect with me on [LinkedIn](https://www
 - <b>Web Development</b>
   - [Group Project: Task Management Website](https://github.com/AnisahC/TaskFlow)<br>
 - <b>Databases</b>
-  - [Hospital Management](https://github.com/AnisahC/HospitalManagementDB)
+  - [Hospital Management System](https://github.com/AnisahC/HospitalManagementDB)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
